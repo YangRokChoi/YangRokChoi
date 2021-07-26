@@ -6,7 +6,7 @@ Current Ph.D program at <strong>Korea University</strong>. My main research fiel
 <br>
 
 ## Education
-- Ph.D in School of Civil, Environmental and Architectural Engineering, Korea University `2021 ~`
+- Ph.D program in School of Civil, Environmental and Architectural Engineering, Korea University `2021 ~`
 - M.S in School of Civil, Environmental and Architectural Engineering, Korea University `2018 ~ 2020`
 - B.S in School of Civil, Environmental and Architectural Engineering, Korea University `2012 ~ 2018`
 
