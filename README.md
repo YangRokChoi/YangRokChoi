@@ -12,4 +12,4 @@ Current Ph.D program at <strong>Korea University</strong>. My main research fiel
 
 <br>
 
-### Contact : yangrokchoi@gmail.com or azsxdc93@korea.ac.kr
+<Strong>Contact :</strong> yangrokchoi@gmail.com or azsxdc93@korea.ac.kr
